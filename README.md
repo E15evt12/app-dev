@@ -1,5 +1,3 @@
-{
-  "Favmovie": "Justice league",
-  "Favfood": "riceislife",
-  "age": 20
-}
+1. "Favmovie": "Justice league"
+2. "Favfood": "riceislife"
+3.  "age": 20
