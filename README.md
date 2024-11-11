@@ -1,2 +1,5 @@
-# app-dev
-My first repository
+{
+  "Favmovie": "Justice league",
+  "Favfood": "riceislife",
+  "age": 20
+}
